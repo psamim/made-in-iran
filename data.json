@@ -56,7 +56,8 @@
         "smoqadam/PyFladesk",
         "smoqadam/PyFladesk-rss-reader",
         "mamal72/telegram-iranbot",
-        "psamim/aria2-telegram-bot"
+        "psamim/aria2-telegram-bot",
+        "psamim/kindle2anki"
       ]
     },
     {
